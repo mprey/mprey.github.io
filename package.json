@@ -1,0 +1,20 @@
+{
+  "name": "mprey.github.io",
+  "version": "1.0.0",
+  "description": "A starter project for Jekyll",
+  "main": "index.js",
+  "repository": "https://github.com/mprey/mprey.github.io",
+  "author": "Mason Prey",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "child_process": "^1.0.2",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cache": "*",
+    "gulp-imagemin": "*",
+    "gulp-sass": "*",
+    "sass": "^1.72.0"
+  }
+}

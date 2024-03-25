@@ -13,8 +13,8 @@ development community pre-college (2017) which sparked my interest in Java. I fo
 in college and it has kept my interest since.
 
 I've done things with web development, large-scale system design, embedded programming, AI/ML, low-latency software
-design, hacking (glorified devops), video game development, mobile development, kernel programming. I like to
-approach software with a jack-of-all-trades-master-of-none mindset. I suppose we'll find how this pays off
+design, devops, video game development, mobile development, kernel programming. I like to
+approach software with a jack-of-all-trades-master-of-none mindset. I suppose we'll find out how this pays off
 later in my career.
 
 I stay busy outside of the computer playing pool (mostly 8ball, sometimes 9ball), reading (mostly fantasy/fiction/

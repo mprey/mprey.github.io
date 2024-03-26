@@ -400,17 +400,14 @@ template {
 }
 
 .highlight {
-  background-color: #faf9f9;
-  border-radius: 3px;
   margin: 0;
 }
 
 .highlighter-rouge {
-  color: #ce887b;
-  font-weight: 400;
-  border: 1px solid #607D8B;
+  padding: 0.2em 0.4em;
   border-radius: 3px;
-  padding: 0.1rem 0.5rem;
+  background-color: rgba(175, 184, 193, 0.2);
+  font-size: 85%;
 }
 
 .highlight .hll {
@@ -652,7 +649,7 @@ blockquote {
 }
 
 pre {
-  padding: 1rem 2rem;
+  padding: 16px;
   overflow: auto;
   white-space: pre-wrap;
   word-wrap: break-word;
@@ -666,6 +663,7 @@ pre code {
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
+  font-size: 85%;
 }
 
 table {
